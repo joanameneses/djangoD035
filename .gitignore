@@ -1,0 +1,9 @@
+# quero ignorar o ficheiro notas.txt
+notas.txt
+
+# quero ignorar todos os ficheiros .txt e todos os .zip
+*.txt
+*.zip
+
+#quero ignorar tudo que esta na pasta docs
+docs/
