@@ -1,2 +1,4 @@
 # djangoD035
-projeto django
+Projeto django 2023
+Tema por definir 
+IEFP
